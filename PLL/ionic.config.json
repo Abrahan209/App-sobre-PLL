@@ -1,0 +1,7 @@
+{
+  "name": "PLL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
